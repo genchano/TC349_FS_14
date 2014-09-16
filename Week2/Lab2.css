@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #ecf0f1;
+}
+
+h1, p, ul {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #2980b9;
+	padding: .5em 0;
+	text-align: center;
+	color: #fff;
+}
+
+#main-feed {
+	padding: 2em;
+}
+
+.toggle-button {
+	display: inline-block;
+	padding: 20 px;
+	background: #ccc;
+	font-size: 40px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#feed li {
+	padding: 1em;
+	margin-bottom: 2em;
+	border: 1px solid #999;
+	border-radius: 4px;
+	background: #fff;
+}
