@@ -1,0 +1,19 @@
+Pitchboard
+
+Short pitch:
+A webpage demonstrating the validity of my technical skills and offers technical support.
+
+Long pitch:
+My website will give a bio about me and my experiences. Users will have the option to download
+a remote desktop application to receive technical support or consoltation. A web catalog of various
+software and hardware will be available. Reviews, forums, and Q/A's will allow users to get more insight.
+
+Personas:
+-Technically challenged
+-Computer shoppers
+-Users with computer issues
+
+Comparibles:
+http://www.geeksquad.com/
+http://support.microsoft.com/contactus/
+https://supportforums.cisco.com/

@@ -1,0 +1,18 @@
+Pitchboard
+
+
+Short pitch:
+A webpage outlining the background, hobbies, and interestests of Mark Genchanok.
+
+Long pitch:
+My webpage will give a brief bio about me. It will give the reader essential information about me,
+my accomplishments, and interests. The main emphasis will be a short read-off of my resume, which
+includes my work experience as a computer technician.
+
+Personas:
+-Internship/job recruitors
+-Stalkers
+
+Comparibles:
+http://pasisahlberg.com/portfolio-writings/short-bio/
+
