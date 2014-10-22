@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+/* Mark Genchanok's CSS Document. 
+*/
+
+
+
+/* the html element below is the "background" of your page */
+html {
+
+	background: url(triangles.jpg)
+}
+
+body {
+	width: 761px;
+	margin: 1.5em auto; /* this + a defined width, centers the body content */
+	border-color: #0058AB;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	background: url(patterns.jpg)
+}
+
+h1 {
+	text-align: center;
+	background-color: #93CAFF;
+	color: #FFF;
+}
+
+h2 {
+	padding: 7px;
+	color: #CF0;
+}
+
+h3 {
+	color: #CF0;
+}
+
+h4 {
+	color: #FFF;
+	font-weight:bold;	
+}
+
+li {
+	color: white;
+}
+
+/* IMPORTANT: this will put a border around ALL images - so the banner AND the image of you. You may want to remove the border or change it! */
+img {
+	border-color: #0058AB;
+	border-style: solid;
+	border-width: 5px;
+}
+
+/* The code below here alters your links */
+a {
+  font-weight: bold;
+  color: #F70000
+}
+
+a:hover {
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+a:link {
+	font-weight: bold;
+	color: #00AB31;
+	text-decoration: none;
+}
+
+a:visited {
+	font-style: italic;
+	color: #FFFF00;
+}
+
+a:active {
+	background-color: #FFF;
+}
+
+#nav {
+	background-color: #903;
+	list-style: none;
+	width: 700px;
+	padding: 15px;
+	text-align: center;
+}
+
+#nav li {
+	display: inline;
+	border: solid;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+#nav a:hover{
+	text-decoration: none;
+	color: #0FF
+}
+
+#container {
+   min-height:100%;
+   position:relative;
+}
+
+#footer {
+   width:100%;
+   background:#6cf;
+   text-align:center;
+   font-size:11px;
+}
+
+#pic {
+	float:right;
+}
