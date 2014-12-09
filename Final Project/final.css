@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #ecf0f1;
+}
+
+h1, p, ul {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #722f37;
+	padding: .5em 0;
+	text-align: center;
+	color: #fff;
+	width:auto;
+	border:solid;
+	border-color:rgb(0,0,0)
+}
+
+#nav {
+	display:block;
+	background-color: #ecf0f1;
+	list-style: none;
+	width:auto;
+	padding: 15px;
+	text-align: center;
+}
+
+#nav li {
+	background-color:#722F37;
+	display: inline;
+	border: solid;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin:20px;
+}
+
+#nav a:hover{
+	text-decoration: underline;
+	color: #fff;
+}
+
+#nav a {
+  text-decoration: none;
+  font-weight: bold;
+  color:rgb(253,184,19);
+}
+
+#nav a:link {
+	font-weight: bold;
+	color: #FFF
+	text-decoration: none;
+}
+
+#nav a:visited {
+	font-style: italic;
+	color: #FF0;
+}
+
+#nav a:active {
+	background-color: #FFF;
+}
+
+#navbox {
+	margin-top:25px;
+	margin-bottom:25px;
+	width:auto;
+	text-align:center;
+	border:solid;
+	border-color:rgb(0,0,0);
+}
+
+#ec {
+	width:400px;
+	height:775px;
+	border:solid;
+	float:left;
+	margin:25px;
+}
+
+#ec h2 {
+	text-align:center;
+}
+
+#ec img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#maincont {
+	width:800px;
+	height:775px;
+	border:solid;
+	float:right;
+	margin:25px;
+}
+
+#maincont h1 {
+	margin:20px;
+	text-align:center;
+	color:rgb(253,184,19);
+}
+
+#maincont h2 {
+	margin:20px;
+	color:#722f37;
+}
+
+#maincont p {
+	margin:20px;
+}
+
+#snow {
+	display:block;
+	float:right;
+	margin:20px;
+}
+
+#container {
+   position:relative;
+   margin-top:100px;
+}
+
+#footer {
+   width:100%;
+   text-align:center;
+   font-size:11px;
+}
+
+#extbox {
+	border:solid;
+	alignment-adjust:middle;
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+	height:100%;
+}
+
+#cont {
+	margin:25px;	
+}
+
+#cont h1 {
+	text-align:center;
+	color:#722F37;
+}
+
+#ab1, #ab2 {
+	margin-top:25px;
+	margin-bottom:25px;
+}
+
+#ab3 {
+	margin:25px;
+	text-align:center;
+}
+
+#cont img{
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#panel,#flip
+{
+	padding:5px;
+	text-align:center;
+	background-color:#722F37;
+	color:rgb(253,184,19);
+	border:solid 2px #000;
+}
+#panel
+{
+	border-top:none;
+	padding:50px;
+	display:none;
+}
